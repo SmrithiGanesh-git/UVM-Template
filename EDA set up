@@ -1,0 +1,7 @@
+EDA playground setup
+Testbench+design = Verilog/SystemVerilog
+UVM/OVM = UVM 1.1d
+Tools & Simulator = VCS 2021.09
+Run Options:
+* Show EP Wave after run
+* Show Output File after run
